@@ -1,0 +1,25 @@
+{
+  "version": "2.0.3",
+  "summary": {
+    "title": "User Login Form",
+    "owner": "Titus Cruz",
+    "description": "The user logs on. The user submits a name and password through the logon form. The user name and password are handled by the logon page and passed to the membership business logic component. This component passes the data to the data access component, which verifies the credentials with the database to determine their validity.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New generic diagram",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.0.3"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
